@@ -3,9 +3,10 @@ AI based beatdetection for touchdesigner build around https://github.com/CPJKU/m
 
 
 ## Requirements
-
-- TouchDesigner
+- TouchDesigner 2023.xxxx
+- Windows 10/11
 - python 3.9  https://www.python.org/downloads/release/python-395/
+- Mic/LineIn Device
 
 ## How to install
 - install Python 3.9
