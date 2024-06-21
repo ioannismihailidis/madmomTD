@@ -1,5 +1,5 @@
 # madmomTD
-AI based beatdetection for touchdesigner
+AI based beatdetection for touchdesigner build around https://github.com/CPJKU/madmom/
 
 
 ## Requirements
