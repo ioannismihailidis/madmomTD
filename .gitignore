@@ -1,0 +1,5 @@
+*.*.toe
+scripts/**
+!scripts/DBNBeatTrackerOSC.py
+env/**
+!env/.gitkeep
