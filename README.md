@@ -15,7 +15,7 @@ AI based beatdetection for touchdesigner build around https://github.com/CPJKU/m
 - Install Python 3.9
 
 - **Caution**: tox/toe are marked as LFS. Please use the download from releases or clone with git. "Download zip" won't pull the lfs files and you will have corrupted touchdesigner files! \
-![image](https://github.com/ioannismihailidis/madmomTD/assets/1242010/c706f84f-10fe-40af-beb8-b36331cf47b4)
+![image](https://github.com/ioannismihailidis/madmomTD/assets/1242010/4f02c655-bfb8-4a22-be72-561e5b5667bd)
 
 - Open madmom.toe. "Install" creates a virtual enviroment in the selected basefolder and installs all needed dependencies \
 ![image](https://github.com/ioannismihailidis/madmomTD/assets/1242010/8c8d7e52-df57-46c5-9614-3a8b6dd6b771)
