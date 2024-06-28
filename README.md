@@ -1,6 +1,8 @@
 # madmomTD
 AI based beatdetection for touchdesigner build around https://github.com/CPJKU/madmom/
 
+https://github.com/ioannismihailidis/madmomTD/assets/1242010/451d16a4-83a7-4e06-b776-541178d81ce0
+
 # Features
 - Easy one click dependencies installer
 - stable beat detection from a selected audio input device
