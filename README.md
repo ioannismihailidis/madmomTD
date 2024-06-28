@@ -30,6 +30,7 @@ AI based beatdetection for touchdesigner build around https://github.com/CPJKU/m
 
 ## Todos
 - MacOS Support
+- Quit python script via "stop" pulse. Right now you have to close the terminal to stop the script.
 - Add time signature options
 - Add parameters, thresholds, etc. for beatdetection
 - Beat post processing
